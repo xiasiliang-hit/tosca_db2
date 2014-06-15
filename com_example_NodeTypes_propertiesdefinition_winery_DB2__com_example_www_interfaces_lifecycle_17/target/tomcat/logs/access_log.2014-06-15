@@ -1,0 +1,4 @@
+127.0.0.1 - - [15/Jun/2014:09:47:29 +0200] "POST /services/com_example_NodeTypes_propertiesdefinition_winery_DB2__com_example_www_interfaces_lifecyclePort HTTP/1.1" 202 - http-bio-9090-exec-3 6
+127.0.0.1 - - [15/Jun/2014:09:57:58 +0200] "POST /services/com_example_NodeTypes_propertiesdefinition_winery_DB2__com_example_www_interfaces_lifecyclePort HTTP/1.1" 202 - http-bio-9090-exec-2 7
+127.0.0.1 - - [15/Jun/2014:09:58:21 +0200] "POST /services/com_example_NodeTypes_propertiesdefinition_winery_DB2__com_example_www_interfaces_lifecyclePort HTTP/1.1" 202 - http-bio-9090-exec-2 7
+127.0.0.1 - - [15/Jun/2014:10:00:45 +0200] "POST /services/com_example_NodeTypes_propertiesdefinition_winery_DB2__com_example_www_interfaces_lifecyclePort HTTP/1.1" 202 - http-bio-9090-exec-8 9

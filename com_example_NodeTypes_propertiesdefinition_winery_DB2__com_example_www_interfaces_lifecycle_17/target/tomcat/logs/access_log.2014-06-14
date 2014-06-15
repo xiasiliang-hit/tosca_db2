@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [14/Jun/2014:20:57:00 +0200] "GET /services HTTP/1.1" 200 1510 http-bio-9090-exec-1 36
+0:0:0:0:0:0:0:1 - - [14/Jun/2014:20:57:00 +0200] "GET /services/?stylesheet=1 HTTP/1.1" 200 - http-bio-9090-exec-3 3
+0:0:0:0:0:0:0:1 - - [14/Jun/2014:20:57:00 +0200] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9090-exec-4 2
+0:0:0:0:0:0:0:1 - - [14/Jun/2014:20:59:11 +0200] "GET /services/com_example_NodeTypes_propertiesdefinition_winery_DB2__com_example_www_interfaces_lifecyclePort?wsdl HTTP/1.1" 200 7255 http-bio-9090-exec-6 80
+127.0.0.1 - - [14/Jun/2014:20:59:19 +0200] "GET /services/com_example_NodeTypes_propertiesdefinition_winery_DB2__com_example_www_interfaces_lifecyclePort?wsdl HTTP/1.1" 200 7255 http-bio-9090-exec-8 37
+127.0.0.1 - - [14/Jun/2014:21:03:35 +0200] "POST /services/com_example_NodeTypes_propertiesdefinition_winery_DB2__com_example_www_interfaces_lifecyclePort HTTP/1.1" 202 - http-bio-9090-exec-10 64
